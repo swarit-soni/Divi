@@ -7,5 +7,5 @@
     "declaration": false,
     "sourceMap": false
   },
-  "include": ["model.ts"]
+  "include": ["model.ts", "app.ts"]
 }
